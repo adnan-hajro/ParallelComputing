@@ -1,8 +1,8 @@
 # Compiler and flags
 CXX = g++
 
-# flag for optimization "-03" - run the code with and without that flag
-CXXFLAGS = -03 -Wall -std=c++17 -march=native
+# flag for optimization "-O3" - run the code with and without that flag
+CXXFLAGS = -O3 -Wall -std=c++17 -march=native
 
 # Source and base executable
 # TARGET_SRC = name_of_your_cpp
