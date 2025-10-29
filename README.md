@@ -1,1 +1,1 @@
-# ParallelComputing
+# ParallelComputing - Lab 5
